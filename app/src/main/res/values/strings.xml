@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR_scan</string>
+    <string name="qr">QR scanner \n\nDue to covid-19, each customer must scan our shop QR code before entry.</string>
+</resources>
